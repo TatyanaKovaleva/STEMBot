@@ -7,4 +7,4 @@ Worlds-first stem constructor for kids based on natural components.
 
 Так вперед, в мир роботов!
 
-<center><img src="https://ibb.co/bWsOSm"></img></center>
+<center><img src="https://ibb.co/bWsOSm"></center>
