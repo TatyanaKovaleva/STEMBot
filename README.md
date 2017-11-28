@@ -9,4 +9,4 @@ Worlds-first stem constructor for kids based on natural components.
 
 
 
-<center><img src="https://preview.ibb.co/f7vMDR/image2.jpg" alt="image2" border="0"></center>
+<center><img src="https://preview.ibb.co/f7vMDR/image2.jpg" alt="image2" border="1"></center>
